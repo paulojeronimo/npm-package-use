@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@paulojeronimo/npm-package-test": "^1.0.5"
+    "@paulojeronimo/npm-package-test": "^1.0.6"
   }
 }
