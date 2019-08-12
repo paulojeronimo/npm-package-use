@@ -1,0 +1,12 @@
+= npm-package-use
+
+This demo package uses https://github.com/paulojeronimo/npm-package-test[npm-package-test^].
+
+Why? To learn about https://nodejs.org/api/modules.html[Node.js Modules^] and https://github.com/babel/babel/releases/tag/v7.5.0[Babel 7.5.0^].
+
+== Use
+
+----
+$ npm install
+$ node .
+----
